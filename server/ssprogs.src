@@ -1,6 +1,9 @@
 ../qwprogs.dat
 ssdefs.qc
 weapons.qc
+ambients.qc
+internalfuncs.qc
 player.qc
 main.qc
+lights.qc
 items.qc
