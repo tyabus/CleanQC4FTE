@@ -190,7 +190,7 @@ void() Draw_Menu =
 	switch(in_menu)
 	{
 		case MENU_MAIN:
-			title = "Game: Video";
+			title = "QC4FTE Example Plus";
 			break;
 		case MENU_SINGLE:
 			title = "Singleplayer";
