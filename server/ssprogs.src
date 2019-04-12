@@ -6,4 +6,5 @@ internalfuncs.qc
 player.qc
 main.qc
 lights.qc
+misc.qc
 items.qc

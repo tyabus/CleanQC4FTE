@@ -1,3 +1,6 @@
+//
+//      Lights.qc - light entities
+//
 float START_OFF = 1; // Light on/off spawnflag
 
 void() lightsetup;

@@ -1,3 +1,6 @@
+//
+//      Ambients.qc - ambient entities
+//
 void(string soundfile, float volume) doambient;
 
 void() ambient_suck_wind =
