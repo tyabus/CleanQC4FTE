@@ -1,6 +1,6 @@
 ../qwprogs.dat
-server/ssdefs.qc
-server/weapons.qc
-server/player.qc
-server/main.qc
-server/items.qc
+ssdefs.qc
+weapons.qc
+player.qc
+main.qc
+items.qc
