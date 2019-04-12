@@ -1429,4 +1429,3 @@ string(string digest, string data, ...) digest_hex = #639;
 #define K_BACKSLASH	92
 #endif
 #pragma noref 0
- 

@@ -451,4 +451,4 @@ noref void() CSQC_Parse_Event =
 			weapon = to;
 		}
 	}
-} 
+}
